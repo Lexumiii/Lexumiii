@@ -105,14 +105,3 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexumiii&show_icons=true&theme=radical" alt="Lexumiii GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexumiii&layout=compact&theme=radical" alt="Lexumiii Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lexumiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
